@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<iq:manifest xmlns:iq="http://www.garmin.com/xml/connectiq" version="3">
+    <iq:application id="7f4a9b2c6d314e85a2c791b6d3e8f042"
+        type="watchface"
+        name="CYCLING BLUE"
+        entry="CyclingBlueApp"
+        minApiLevel="3.2.0">
+        <iq:products>
+            <iq:product id="venu2"/>
+        </iq:products>
+        <iq:permissions/>
+    </iq:application>
+</iq:manifest>
